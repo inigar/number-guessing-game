@@ -1,4 +1,5 @@
 body{
+    text-align: center;
     background-color: grey;
     color: aliceblue;
 }
@@ -18,9 +19,4 @@ body{
 }
 #btn{
     background-color: green;
-    
-}
-.center{
-    margin: 50px 100px;
-    
 }
