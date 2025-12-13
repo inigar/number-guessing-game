@@ -13,7 +13,7 @@ The game provides instant feedback, score tracking, and a clean UI.
 - User input validation
 - Hints: "Too High" / "Too Low"
 - Score counter
-- Reset / Play Again button
+- Start new game button 
 
 
 
@@ -31,13 +31,13 @@ The game provides instant feedback, score tracking, and a clean UI.
 🎮 How to Play
 
 1. Enter a number in the input box
-2. Click Check
+2. Click Submit 
 3. The game will tell you if your guess is:
       ✅ Correct
       🔼 Too High
       🔽 Too Low
 4. Keep guessing until you win!
-5. Click Play Again to restart
+5. Click start new game
 
 
 
